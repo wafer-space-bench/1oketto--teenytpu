@@ -17,8 +17,9 @@ tapeouts:
   tag: tinytapeout/ttgf26a/tt_um_joannec34_teenytpu
   branch: tapeout/tinytapeout/ttgf26a/tt_um_joannec34_teenytpu
   page: https://app.tinytapeout.com/shuttles/ttgf26a
-generated: '2026-10-17T01:40:24Z'
+generated: '2026-10-17T23:53:21Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
 branches:
 - about
 - tapeout/tinytapeout/ttgf26a/tt_um_joannec34_teenytpu
