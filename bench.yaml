@@ -1,0 +1,25 @@
+source:
+  url: https://github.com/1oketto/teenytpu
+  original_url: https://github.com/joannec34/teenytpu
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_joannec34_teenytpu
+  project: teenytpu
+  size: 1x2
+  kind: digital (Verilog)
+  commit: 22420e4e0647c80b215927ebf6d37a3605615d6b
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_joannec34_teenytpu
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_joannec34_teenytpu
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T01:40:24Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_joannec34_teenytpu
+- upstream/main
